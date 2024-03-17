@@ -1,0 +1,70 @@
+name: dockercompose16523093731081097829
+services:
+  app_db:
+    container_name: app_db
+    environment:
+      ACCEPT_EULA: "Y"
+      MSSQL_SA_PASSWORD: casablanca
+    image: postgres:latest
+    networks:
+      dev: null
+    ports:
+      - mode: ingress
+        target: 5432
+        published: "5433"
+        protocol: tcp
+    restart: always
+    volumes:
+      - type: volume
+        source: app_data
+        target: /var/lib/postgresql/data
+        volume: {}
+  weatherforecastapi:
+    build:
+      context: C:\Repos\DockerTurorials\WeatherForecastAPI
+      dockerfile: WeatherForecastAPI/Dockerfile
+    container_name: appdemo-service
+    depends_on:
+      app_db:
+        condition: service_started
+        required: true
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTP_PORTS: "8080"
+      ASPNETCORE_HTTPS_PORTS: "8081"
+      ASPNETCORE_URLS: http://+:80
+      ConnectionStrings__DefaultConnection: User ID =sa;Password=casablanca;Server=host.docker.internal;Database=WeatherForecastsDb; Encrypt=false;Trusted_Connection=False;
+    image: weatherforecastapi
+    networks:
+      dev: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "5009"
+        protocol: tcp
+      - mode: ingress
+        target: 8080
+        protocol: tcp
+      - mode: ingress
+        target: 8081
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\ignle\AppData\Roaming/Microsoft/UserSecrets
+        target: /home/app/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\ignle\AppData\Roaming/ASP.NET/Https
+        target: /home/app/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  dev:
+    name: dockercompose16523093731081097829_dev
+    driver: bridge
+volumes:
+  app_data:
+    name: dockercompose16523093731081097829_app_data

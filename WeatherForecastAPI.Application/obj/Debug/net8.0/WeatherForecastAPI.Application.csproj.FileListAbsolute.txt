@@ -1,0 +1,15 @@
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\bin\Debug\net8.0\WeatherForecastAPI.Application.deps.json
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\bin\Debug\net8.0\WeatherForecastAPI.Application.dll
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\bin\Debug\net8.0\WeatherForecastAPI.Application.pdb
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\bin\Debug\net8.0\WeatherForecastAPI.Domain.dll
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\bin\Debug\net8.0\WeatherForecastAPI.Domain.pdb
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\obj\Debug\net8.0\WeatherForecastAPI.Application.csproj.AssemblyReference.cache
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\obj\Debug\net8.0\WeatherForecastAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\obj\Debug\net8.0\WeatherForecastAPI.Application.AssemblyInfoInputs.cache
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\obj\Debug\net8.0\WeatherForecastAPI.Application.AssemblyInfo.cs
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\obj\Debug\net8.0\WeatherForecastAPI.Application.csproj.CoreCompileInputs.cache
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\obj\Debug\net8.0\WeatherForecastAPI.Application.csproj.CopyComplete
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\obj\Debug\net8.0\WeatherForecastAPI.Application.dll
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\obj\Debug\net8.0\refint\WeatherForecastAPI.Application.dll
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\obj\Debug\net8.0\WeatherForecastAPI.Application.pdb
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Application\obj\Debug\net8.0\ref\WeatherForecastAPI.Application.dll

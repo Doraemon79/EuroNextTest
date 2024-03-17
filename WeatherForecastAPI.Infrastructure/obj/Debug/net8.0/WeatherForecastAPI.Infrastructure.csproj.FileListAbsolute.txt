@@ -1,0 +1,15 @@
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\bin\Debug\net8.0\WeatherForecastAPI.Infrastructure.deps.json
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\bin\Debug\net8.0\WeatherForecastAPI.Infrastructure.dll
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\bin\Debug\net8.0\WeatherForecastAPI.Infrastructure.pdb
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\bin\Debug\net8.0\WeatherForecastAPI.Domain.dll
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\bin\Debug\net8.0\WeatherForecastAPI.Domain.pdb
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\obj\Debug\net8.0\WeatherForecastAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\obj\Debug\net8.0\WeatherForecastAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\obj\Debug\net8.0\WeatherForecastAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\obj\Debug\net8.0\WeatherForecastAPI.Infrastructure.AssemblyInfo.cs
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\obj\Debug\net8.0\WeatherForecastAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\obj\Debug\net8.0\WeatherForecastAPI.Infrastructure.csproj.CopyComplete
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\obj\Debug\net8.0\WeatherForecastAPI.Infrastructure.dll
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\obj\Debug\net8.0\refint\WeatherForecastAPI.Infrastructure.dll
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\obj\Debug\net8.0\WeatherForecastAPI.Infrastructure.pdb
+C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\obj\Debug\net8.0\ref\WeatherForecastAPI.Infrastructure.dll
