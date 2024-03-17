@@ -21,7 +21,7 @@ services:
     networks:
       - dev
   app_db:
-    image: postgres:latest
+    image: mcr.microsoft.com/mssql/server:2022-latest
     container_name: app_db
     environment:
             - ACCEPT_EULA=Y
@@ -30,7 +30,7 @@ services:
       - "5433:5432"
     restart: always
     volumes:
-      - app_data:/var/lib/postgresql/data
+      - app_data:/var/opt/mssql/data
     networks:
       - dev
 

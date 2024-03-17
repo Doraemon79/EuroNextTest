@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2mT6ZJc+WZcWGJViSbIl/HvjZcNNheii/rBNdpnil20A00J4W9D1s/180fmA0JT71iVuZd5loWov+y+gfWdpNg==",
+  "dgSpecHash": "J/fE8FCjMlS6Xn8mT6NowXLFDgHc7LImDs1vB6dyhDnYaC3RadPwFnB71sa3oLCx55pC3Ub8CvWkzY7itYAtNQ==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\DockerTurorials\\WeatherForecastAPI\\WeatherForecastAPI.Domain\\WeatherForecastAPI.Domain.csproj",
+  "projectFilePath": "C:\\Repos\\DockerTurorials\\EuroNextTest\\WeatherForecastAPI.Domain\\WeatherForecastAPI.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

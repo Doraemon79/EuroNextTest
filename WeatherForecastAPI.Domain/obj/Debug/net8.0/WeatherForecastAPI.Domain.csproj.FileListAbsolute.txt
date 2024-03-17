@@ -9,3 +9,15 @@ C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Domain\obj\Debug\
 C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Domain\obj\Debug\net8.0\refint\WeatherForecastAPI.Domain.dll
 C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Domain\obj\Debug\net8.0\WeatherForecastAPI.Domain.pdb
 C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Domain\obj\Debug\net8.0\ref\WeatherForecastAPI.Domain.dll
+C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Domain\bin\Debug\net8.0\WeatherForecastAPI.Domain.deps.json
+C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Domain\bin\Debug\net8.0\WeatherForecastAPI.Domain.dll
+C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Domain\bin\Debug\net8.0\WeatherForecastAPI.Domain.pdb
+C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Domain\obj\Debug\net8.0\WeatherForecastAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Domain\obj\Debug\net8.0\WeatherForecastAPI.Domain.AssemblyInfoInputs.cache
+C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Domain\obj\Debug\net8.0\WeatherForecastAPI.Domain.AssemblyInfo.cs
+C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Domain\obj\Debug\net8.0\WeatherForecastAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Domain\obj\Debug\net8.0\WeatherForecastAPI.Domain.sourcelink.json
+C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Domain\obj\Debug\net8.0\WeatherForecastAPI.Domain.dll
+C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Domain\obj\Debug\net8.0\refint\WeatherForecastAPI.Domain.dll
+C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Domain\obj\Debug\net8.0\WeatherForecastAPI.Domain.pdb
+C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Domain\obj\Debug\net8.0\ref\WeatherForecastAPI.Domain.dll

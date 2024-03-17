@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WeatherForecastAPI.Infrastructure
-build_property.ProjectDir = C:\Repos\DockerTurorials\WeatherForecastAPI\WeatherForecastAPI.Infrastructure\
+build_property.ProjectDir = C:\Repos\DockerTurorials\EuroNextTest\WeatherForecastAPI.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

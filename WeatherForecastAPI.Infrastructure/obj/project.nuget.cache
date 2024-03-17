@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jj0QdK6wEEEkNkxcHQRAv6bmUuE011B0tkgwpg7Otn91eKKKD2p1Em3uw42bMfVY92pwPQeS0pdam+4Haaiuug==",
+  "dgSpecHash": "jsFoh65MPz+0nbJKxa2tCrFDv7yPSFZTunF8Hm8bfc7ElJkNEPtp++1EoJsVyzJDLndbhpOL9rNRjhoSMs6Jmg==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\DockerTurorials\\WeatherForecastAPI\\WeatherForecastAPI.Infrastructure\\WeatherForecastAPI.Infrastructure.csproj",
+  "projectFilePath": "C:\\Repos\\DockerTurorials\\EuroNextTest\\WeatherForecastAPI.Infrastructure\\WeatherForecastAPI.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ignle\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ignle\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

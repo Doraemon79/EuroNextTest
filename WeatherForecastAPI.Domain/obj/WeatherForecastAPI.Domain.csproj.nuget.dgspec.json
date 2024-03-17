@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\DockerTurorials\\WeatherForecastAPI\\WeatherForecastAPI.Domain\\WeatherForecastAPI.Domain.csproj": {}
+    "C:\\Repos\\DockerTurorials\\EuroNextTest\\WeatherForecastAPI.Domain\\WeatherForecastAPI.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\DockerTurorials\\WeatherForecastAPI\\WeatherForecastAPI.Domain\\WeatherForecastAPI.Domain.csproj": {
+    "C:\\Repos\\DockerTurorials\\EuroNextTest\\WeatherForecastAPI.Domain\\WeatherForecastAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\DockerTurorials\\WeatherForecastAPI\\WeatherForecastAPI.Domain\\WeatherForecastAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Repos\\DockerTurorials\\EuroNextTest\\WeatherForecastAPI.Domain\\WeatherForecastAPI.Domain.csproj",
         "projectName": "WeatherForecastAPI.Domain",
-        "projectPath": "C:\\Repos\\DockerTurorials\\WeatherForecastAPI\\WeatherForecastAPI.Domain\\WeatherForecastAPI.Domain.csproj",
+        "projectPath": "C:\\Repos\\DockerTurorials\\EuroNextTest\\WeatherForecastAPI.Domain\\WeatherForecastAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\ignle\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\DockerTurorials\\WeatherForecastAPI\\WeatherForecastAPI.Domain\\obj\\",
+        "outputPath": "C:\\Repos\\DockerTurorials\\EuroNextTest\\WeatherForecastAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
